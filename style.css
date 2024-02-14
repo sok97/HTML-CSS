@@ -1,0 +1,42 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #007bff;
+  }
+  
+  #quiz {
+    width: 600px;
+    height:300px;
+    margin: 50px;
+    padding: 20px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+  }
+  
+  #question {
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-left:20px;
+    
+  }
+  
+  #answers button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+  
+  #next {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border: 29px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  html {
+    height: 100%;
+    width: 100%;
+  }
